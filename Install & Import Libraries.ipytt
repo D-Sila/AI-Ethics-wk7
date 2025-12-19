@@ -1,0 +1,11 @@
+# Install AI Fairness 360 if not already installed
+# !pip install aif360
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+
+from aif360.datasets import CompasDataset
+from aif360.metrics import BinaryLabelDatasetMetric
+from aif360.metrics import ClassificationMetric
+from aif360.algorithms.preprocessing import Reweighing
