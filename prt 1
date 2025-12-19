@@ -1,0 +1,40 @@
+Q1: Define algorithmic bias and provide two examples of how it manifests in AI systems.
+
+Algorithmic bias refers to systematic and unfair discrimination produced by AI systems due to biased data, flawed assumptions, or design choices that disadvantage certain individuals or groups.
+
+Examples:
+
+Hiring Algorithms: An AI trained on historical hiring data may favor male candidates if past hiring decisions were biased against women (e.g., Amazon’s recruiting tool).
+
+Criminal Justice Systems: Risk assessment tools like COMPAS may assign higher recidivism risk scores to minority groups due to biased policing and arrest data.
+Q2: Explain the difference between transparency and explainability in AI. Why are both important?
+
+Transparency refers to openness about how an AI system is built and used, including data sources, model type, and decision processes.
+
+Explainability refers to the ability to provide understandable reasons for specific AI decisions or predictions.
+
+Importance:
+
+Transparency builds trust and accountability.
+
+Explainability allows users and regulators to challenge decisions, detect bias, and comply with legal requirements (e.g., GDPR’s “right to explanation”).
+
+Both are essential for ethical, trustworthy, and human-centric AI systems.
+
+Q3: How does GDPR impact AI development in the EU?
+
+GDPR significantly impacts AI development by:
+
+Enforcing data protection and privacy principles (lawfulness, fairness, minimization).
+
+Granting individuals rights such as access, correction, erasure, and objection to automated decision-making.
+
+Restricting fully automated decisions with significant effects unless safeguards (e.g., human oversight) are in place.
+
+As a result, AI systems in the EU must be privacy-preserving, explainable, and accountable by design.
+2. Ethical Principles Matching
+Principle	Definition
+A) Justice	Fair distribution of AI benefits and risks
+B) Non-maleficence	Ensuring AI does not harm individuals or society
+C) Autonomy	Respecting users’ right to control their data and decisions
+D) Sustainability	Designing AI to be environmentally friendly
