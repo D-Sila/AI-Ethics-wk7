@@ -1,0 +1,45 @@
+Case 1: Biased Hiring Tool (Amazon)
+Source of Bias
+
+Training Data Bias: Historical resumes reflected male-dominated hiring patterns.
+
+Feature Selection Bias: Model learned gender-correlated features (e.g., “women’s chess club”).
+
+Feedback Loop: Biased predictions reinforced discriminatory outcomes.
+
+Three Fixes to Improve Fairness
+
+Data Rebalancing: Use gender-balanced and de-biased training datasets.
+
+Bias-Aware Modeling: Apply fairness constraints or adversarial debiasing techniques.
+
+Human-in-the-Loop Review: Combine AI screening with structured human oversight.
+
+Fairness Metrics for Evaluation
+
+Disparate Impact Ratio
+
+Equal Opportunity Difference
+
+Statistical Parity Difference
+
+False Negative Rate Parity
+
+Case 2: Facial Recognition in Policing
+Ethical Risks
+
+Wrongful Arrests: Higher false positives for minorities lead to unjust outcomes.
+
+Privacy Violations: Mass surveillance infringes on civil liberties.
+
+Erosion of Trust: Disproportionate impact damages public confidence in law enforcement.
+
+Policy Recommendations
+
+Strict Accuracy Thresholds: Mandatory bias audits before deployment.
+
+Limited Use Policies: Restrict use to serious crimes with judicial oversight.
+
+Human Verification: AI results must never be the sole basis for arrests.
+
+Transparency & Accountability: Public disclosure of datasets, error rates, and audits.
